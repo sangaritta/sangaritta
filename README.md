@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://sandergarita.infy.club">Sander Garita!</a></h1>
-<h3 align="center">Ethical Hacker and Programmer</h3>
+<h3 align="center">Programmer Artist</h3>
 
 - 🔭 &ensp;I’m currently studying!
 - 🌱 &ensp;I’m currently learning Flutter 
